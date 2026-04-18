@@ -1,12 +1,16 @@
 # 🧠 LeetCode Chronicles: Debugging My Brain, One Problem at a Time
 
-![banner](assets/your-banner-image.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/SKPVenkataSDeepthi/Leetcode-Problem-Solving-Playbook/main/Images/LEETCODE%20IMG.png" width="500"/>
+</p>
 
 Welcome to my little corner of organized chaos where logic meets persistence and coffee meets recursion ☕🔁
 
-![fun-gif](assets/your-fun-coding-gif.gif)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/SKPVenkataSDeepthi/Leetcode-Problem-Solving-Playbook/main/Images/LEETCODE%20GIF.gif" width="500"/>
+</p>
 
-This isn’t just a collection of solved problems — it’s a **living system design of how I think, fail, optimize, and eventually win (sometimes after 17 wrong submissions 🤡).**
+This isn’t just a collection of solved problems, it’s a **living system design of how I think, fail, optimize, and eventually win (sometimes after 17 wrong submissions 🤡).**
 
 ---
 
@@ -45,7 +49,7 @@ When I see a problem, my brain does this:
 ## 🔥 Patterns I Focus On
 
 * Sliding Window 🪟
-* Two Pointers 👉👈
+* Two Pointers ↔️
 * DFS/BFS 🌳
 * Dynamic Programming 📊
 * Greedy 💰
@@ -99,7 +103,21 @@ You’re probably:
 * Trying to get better at problem solving
 * Or avoiding actually solving a problem right now 👀
 
-Either way — keep going. This stuff compounds.
+Either way, keep going. This stuff compounds.
+
+---
+
+## 🌐 LeetCode Profile
+
+<p align="center">
+  <a href="https://leetcode.com/u/Deepthi_SKP/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-Visit%20My%20Profile-orange?style=for-the-badge&logo=leetcode" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/Deepthi_SKP?theme=dark&font=baloo&ext=heatmap" />
+</p>
 
 ---
 
@@ -113,4 +131,6 @@ Either way — keep going. This stuff compounds.
 ✨ *Now go solve that problem you’ve been avoiding.*
 
 ---
+
+© 2026 Venkata Sri Deepthi SriKotaPeetambaram | Leetcode Problem Solving Playbook
 
