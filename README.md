@@ -123,12 +123,12 @@ Either way, keep going. This stuff compounds.
 
 ## ⚡ Final Thought
 
-> “It’s not about solving 1000 problems.
-> It’s about understanding 100 patterns deeply.”
+“It’s not about solving 1000 problems.
+ It’s about understanding 100 patterns deeply.”
 
 ---
 
-✨ *Now go solve that problem you’ve been avoiding.*
+✨ *Now go solve that problem you’ve been avoiding… yes, the one with 3 tabs already open 👀*
 
 ---
 
