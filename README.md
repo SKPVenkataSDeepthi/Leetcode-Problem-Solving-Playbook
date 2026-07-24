@@ -10,28 +10,28 @@ Welcome to my little corner of organized chaos where logic meets persistence and
   <img src="https://raw.githubusercontent.com/SKPVenkataSDeepthi/Leetcode-Problem-Solving-Playbook/main/Images/LEETCODE%20GIF.gif" width="500"/>
 </p>
 
-This isn’t just a collection of solved problems, it’s a **living system design of how I think, fail, optimize, and eventually win (sometimes after 17 wrong submissions 🤡).**
+This isn’t just a collection of solved problems, it’s a **living system design of how I think, fail, optimize, and eventually win (sometimes after 17 wrong submissions).**
 
 ---
 
-## 🚀 What This Repo Is About
+## What This Repo Is About
 
-* 📌 Turning *“why is this failing??”* into *“ohhh that’s clean”*
-* 🧩 Breaking down problems into patterns instead of memorizing solutions
-* ⚡ Building speed + intuition for interviews and real-world problem solving
-* 🧪 Experimenting with multiple approaches (brute → optimized → elegant)
+* Turning *“why is this failing??”* into *“ohhh that’s clean”*
+* Breaking down problems into patterns instead of memorizing solutions
+* Building speed + intuition for interviews and real-world problem solving
+* Experimenting with multiple approaches (brute → optimized → elegant)
 
 ---
 
 Each folder contains:
 
-* ✅ Clean code solutions
-* 💡 Comments explaining *why*, not just *what*
-* 🔁 Alternate approaches when worth it
+* Clean code solutions
+* Comments explaining *why*, not just *what*
+* Alternate approaches when worth it
 
 ---
 
-## 🧠 My Problem-Solving Framework
+## My Problem-Solving Framework
 
 When I see a problem, my brain does this:
 
@@ -46,37 +46,37 @@ When I see a problem, my brain does this:
 
 ---
 
-## 🔥 Patterns I Focus On
+## Patterns I Focus On
 
-* Sliding Window 🪟
-* Two Pointers ↔️
-* DFS/BFS 🌳
-* Dynamic Programming 📊
-* Greedy 💰
-* Backtracking 🔄
+* Sliding Window 
+* Two Pointers
+* DFS/BFS
+* Dynamic Programming
+* Greedy
+* Backtracking
 
 Because interviews don’t test *randomness*, they test **pattern recognition under pressure**
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
-* Python 🐍 (main character energy)
-* Occasionally SQL 🗄️
-* Sometimes just vibes 😌
-
----
-
-## 📈 Goals
-
-* 💯 Consistency > Perfection
-* 🧠 Think in patterns, not problems
-* ⚡ Improve speed + clarity
-* 🎯 Be interview-ready without cramming
+* Python (main character energy)
+* Occasionally SQL
+* Sometimes just vibes
 
 ---
 
-## 🤡 Honest Stats
+## Goals
+
+* Consistency > Perfection
+* Think in patterns, not problems
+* Improve speed + clarity
+* Be interview-ready without cramming
+
+---
+
+## Honest Stats
 
 * Accepted: 😎
 * Wrong Answers: 😭😭😭
@@ -85,7 +85,7 @@ Because interviews don’t test *randomness*, they test **pattern recognition un
 
 ---
 
-## 💬 Why This Exists
+## Why This Exists
 
 Because:
 
@@ -95,7 +95,7 @@ Because:
 
 ---
 
-## 🌱 If You’re Reading This
+## If You’re Reading This
 
 You’re probably:
 
@@ -107,7 +107,7 @@ Either way, keep going. This stuff compounds.
 
 ---
 
-## 🌐 LeetCode Profile
+## LeetCode Profile
 
 <p align="center">
   <a href="https://leetcode.com/u/Deepthi_SKP/" target="_blank">
@@ -121,7 +121,7 @@ Either way, keep going. This stuff compounds.
 
 ---
 
-## ⚡ Final Thought
+## Final Thought
 
 “It’s not about solving 1000 problems.
  It’s about understanding 100 patterns deeply.”
