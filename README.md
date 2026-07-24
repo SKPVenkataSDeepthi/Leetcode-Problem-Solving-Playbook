@@ -1,7 +1,7 @@
 # LeetCode Chronicles: Debugging My Brain, One Problem at a Time
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SKPVenkataSDeepthi/Leetcode-Problem-Solving-Playbook/main/Images/LEETCODE%20IMG.png" width="500"/>
+  <img src="https://github.com/SKPVenkataSDeepthi/Leetcode-Problem-Solving-Playbook/blob/main/Images/Hero%20Banner.png" width="500"/>
 </p>
 
 Welcome to my little corner of organized chaos where logic meets persistence and coffee meets recursion ☕🔁
